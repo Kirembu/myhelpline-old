@@ -1,7 +1,7 @@
 MyHelpline
 ==========
 
-[![Build Status](http://ci.helpline.co.ke/buildStatus/icon?job=myhelpline)](http://ci.helpline.co.ke/job/myhelpline/)
+[![Build Status](https://ci.helpline.co.ke/buildStatus/icon?job=myhelpline)](https://ci.helpline.co.ke/job/myhelpline/)
 
 MyHelpline is a communication framework for support call centers.
 The goal is simple, to help users easily communicate to support agents.
